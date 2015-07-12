@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\miramenu.cs">
+    <Files>
+      <File FileName="Assets\scripts\controlnivel.cs" Line="37" Column="7" />
+      <File FileName="Assets\scripts\puertacontroller.cs" Line="67" Column="8" />
+      <File FileName="Assets\scripts\miramenu.cs" Line="41" Column="65" />
+      <File FileName="Assets\scripts\miracontroller.cs" Line="37" Column="103" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
